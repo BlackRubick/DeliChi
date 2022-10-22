@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    font-family: "convergence";
+}
+
+
+@font-face {
+    font-family: convergence;
+    src: url('../src/assets/fonts/convergence.regular.ttf');
+}

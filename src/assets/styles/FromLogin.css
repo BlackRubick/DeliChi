@@ -1,0 +1,90 @@
+.logindiv{
+    width: 30%;
+    height: 450px;
+    margin-top: 10px;
+    background-color: hsla(34, 50%, 32%, 0.78);
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+}
+
+body{
+    background-image: url('../img/tamal.webp');
+    background-size: cover;
+    backdrop-filter: blur(5px);
+}
+
+.division{
+    margin-top: 10%;
+}
+
+.subtitulo{
+    font-size: 20px;
+}
+
+.titulo{
+    font-size: 25px;
+}
+
+.division1{
+    margin-left: 25%;
+    width: 50%;
+    border-bottom: 2px white solid;
+}
+
+.division1 input{
+    width: 100%;
+    height: 30px;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    transition: all 0.5s;
+    margin-bottom: 15px;
+}
+
+.division1 input:focus{
+    transition: all 0.5s;
+    border: 0.5px blue solid;
+}
+
+.division1 p{
+    text-align: start;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.division1 button{
+    width: 70%;
+    height: 30px;
+    margin-bottom: 15px;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    position: relative;
+    transition: all 0.5s;
+}
+
+.register{
+    font-weight: bold;
+    width: 35%;
+    height: 30px;
+    margin-bottom: 15px;
+    font-size: 13px;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px black;
+    position: relative;
+    transition: all 0.5s;
+}   
+
+
+button:active{
+    top: 2px;
+    box-shadow: none;
+}
+

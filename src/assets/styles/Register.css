@@ -1,0 +1,15 @@
+.imagen-R{
+    background-image: url(../img/masa-para-tamales.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment:fixed;
+    background-color: black;
+}
+
+.blur-R{
+    height: 100%;
+    width: 100%;
+    backdrop-filter: blur(5px);
+}

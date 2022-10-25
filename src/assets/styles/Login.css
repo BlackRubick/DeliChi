@@ -8,3 +8,20 @@
     font-size: 40px;
     color: black;
 }
+
+.imagen-L{
+    background-image: url(../img/tamal.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    background-attachment:fixed;
+}
+
+.blur-L{
+    backdrop-filter: blur(5px);
+}
+
+
+
+

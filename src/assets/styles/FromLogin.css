@@ -1,18 +1,14 @@
 .logindiv{
     width: 30%;
-    height: 450px;
-    margin-top: 10px;
+    height: 480px;
+    margin-top: 49px;
+    margin-bottom: 49px;
     background-color: hsla(34, 50%, 32%, 0.78);
     text-align: center;
     border-radius: 10px;
     color: white;
 }
 
-body{
-    background-image: url('../img/tamal.webp');
-    background-size: cover;
-    backdrop-filter: blur(5px);
-}
 
 .division{
     margin-top: 10%;

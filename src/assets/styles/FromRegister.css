@@ -1,0 +1,62 @@
+.logindiv-r{
+    width: 30%;
+    height: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: hsla(55, 51%, 80%, 0.78);
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+}
+
+.division1-r{
+    margin-left: 25%;
+    width: 50%;
+}
+
+.division1-r p{
+    text-align: start;
+    font-size: 15px;
+    margin-bottom: 15px;
+}
+
+.division1-r input{
+    width: 100%;
+    height: 30px;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    transition: all 0.5s;
+    margin-bottom: 15px;
+}
+
+.division1-r input:focus{
+    transition: all 0.5s;
+    border: 0.5px blue solid;
+}
+
+
+.division1-r button{
+    width: 70%;
+    height: 30px;
+    font-size: 13px;
+    font-weight: bold;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 2px 2px black;
+    position: relative;
+    transition: all 0.5s;
+    margin-top: 15px;
+}
+
+
+button:active{
+    top: 2px;
+    box-shadow: none;
+}
+
+
+.titulo-r{
+    font-size: 25px;
+}
